@@ -1,0 +1,7 @@
+C:\Users\EX BOOK\source\repos\Robotic Factory System\Robotic Factory System\obj\Debug\Robotic Factory System.csproj.AssemblyReference.cache
+C:\Users\EX BOOK\source\repos\Robotic Factory System\Robotic Factory System\obj\Debug\Robotic Factory System.csproj.CoreCompileInputs.cache
+C:\Users\EX BOOK\source\repos\Robotic Factory System\Robotic Factory System\bin\Debug\Robotic Factory System.exe.config
+C:\Users\EX BOOK\source\repos\Robotic Factory System\Robotic Factory System\bin\Debug\Robotic Factory System.exe
+C:\Users\EX BOOK\source\repos\Robotic Factory System\Robotic Factory System\bin\Debug\Robotic Factory System.pdb
+C:\Users\EX BOOK\source\repos\Robotic Factory System\Robotic Factory System\obj\Debug\Robotic Factory System.exe
+C:\Users\EX BOOK\source\repos\Robotic Factory System\Robotic Factory System\obj\Debug\Robotic Factory System.pdb
